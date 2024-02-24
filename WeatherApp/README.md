@@ -24,14 +24,12 @@ This weather app is designed to provide users with global weather insights throu
   <img src="https://github.com/HK-Gupta/Weather-App/assets/116277672/435c5c42-cca6-4a70-b099-1699afef6803" alt="Screenshot 3" width="200"/>
   <img src="https://github.com/HK-Gupta/Weather-App/assets/116277672/cdc96aae-4c5c-40e7-85ce-d9dae15492f2" alt="Screenshot 4" width="200"/>
 </div>
-| ![Screenshot 1](https://github.com/HK-Gupta/Weather-App/assets/116277672/efd54196-360a-4ba3-8a35-ce4b326ff4ae) | ![Screenshot 2](https://github.com/HK-Gupta/Weather-App/assets/116277672/fefe7171-6227-4178-81f0-831f15c6ec73) | ![Screenshot 3](https://github.com/HK-Gupta/Weather-App/assets/116277672/435c5c42-cca6-4a70-b099-1699afef6803) | ![Screenshot 4](https://github.com/HK-Gupta/Weather-App/assets/116277672/cdc96aae-4c5c-40e7-85ce-d9dae15492f2) |
-| --- | --- | --- | --- |
-| *Caption for Screenshot 1* | *Caption for Screenshot 2* | *Caption for Screenshot 3* | *Caption for Screenshot 4* |
+
 ## Installation
 
 To run the weather app locally, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/your-username/weather-app.git](https://github.com/HK-Gupta/Weather-App/new/master/WeatherApp)`
+1. Clone the repository: `git clone (https://github.com/HK-Gupta/Weather-App/new/master/WeatherApp)`
 2. Navigate to the project directory: `cd weather-app`
 3. Open the `index.html` file in your preferred browser.
 
